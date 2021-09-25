@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Missing cup](https://thumbs.dreamstime.com/z/dashed-line-coffee-cup-abstract-vector-illustration-silhouette-background-119209773.jpg)
